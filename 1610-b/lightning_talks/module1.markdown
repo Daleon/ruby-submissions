@@ -80,7 +80,7 @@ Outline: https://gist.github.com/kheppenstall/053379b6c3e3ad01e72bffc954ea4373
 
 Josh Cohen: Modern Nuclear Submarines
 
-Outline: 
+Outline: https://github.com/Daleon/Lightning-Talks/blob/master/README.md
 
 
 Laszlo Balogh: Appreciating a car infotainment system
